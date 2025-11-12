@@ -1,0 +1,18 @@
+bloom/
+ ├─ public/
+ │   ├─ index.html
+ │   ├─ favicon.svg
+ ├─ src/
+ │   ├─ components/
+ │   │   ├─ Header.jsx
+ │   │   ├─ Footer.jsx
+ │   │   ├─ Hero.jsx
+ │   │   ├─ Services.jsx
+ │   │   ├─ About.jsx
+ │   │   ├─ ContactForm.jsx
+ │   └─ App.jsx
+ │   └─ index.css
+ ├─ package.json
+ ├─ tailwind.config.js
+ ├─ postcss.config.js
+ ├─ README.md
